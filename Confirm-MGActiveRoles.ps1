@@ -37,3 +37,5 @@ Function Confirm-MGActiveRoles ($RoleName){
         Write-Output "0"
     }
 }
+
+#This script could be updated to automatically request role elevation by using some information found here https://gist.github.com/arjancornelissen/ba48ced0fdcb310c9e44a4308299b63c
